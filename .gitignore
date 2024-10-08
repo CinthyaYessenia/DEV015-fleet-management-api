@@ -1,0 +1,9 @@
+.vercel
+.pytest_cache
+.vscode
+.venv
+.env
+.DS_Store
+__pycache__
+.coverage
+htmlcov
